@@ -1,0 +1,8 @@
+/* @media print and (min width:150px) and (orientation:potrait) */
+/* @media screen and(max-width:600px) {
+  .Container {
+    display: grid;
+    flex-direction: column;
+    page-orientation: landscape;
+  }
+} */
